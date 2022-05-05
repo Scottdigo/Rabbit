@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-794.172,-935.403)">
+        <g>
+            <g transform="matrix(1,0,0,1,246.134,2.86374)">
+                <clipPath id="_clip1">
+                    <circle cx="575.53" cy="960.032" r="27.493"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(1,-0,-0,1,548.037,932.539)">
+                        <use xlink:href="#_Image2" x="0" y="0" width="54.986px" height="54.986px" transform="matrix(0.999741,0,0,0.999741,0,0)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="twitter-brands.svg" transform="matrix(0.0739934,0,0,0.0739934,823.665,964.588)">
+                <g transform="matrix(1,0,0,1,-256,-256)">
+                    <clipPath id="_clip3">
+                        <rect x="0" y="0" width="512" height="512"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip3)">
+                        <path d="M459.37,151.716C459.695,156.264 459.695,160.813 459.695,165.361C459.695,304.081 354.112,463.919 161.137,463.919C101.685,463.919 46.457,446.7 0,416.813C8.447,417.787 16.568,418.112 25.34,418.112C74.395,418.112 119.553,401.544 155.614,373.28C109.482,372.305 70.822,342.092 57.502,300.508C64,301.482 70.497,302.132 77.32,302.132C86.741,302.132 96.163,300.832 104.934,298.559C56.853,288.812 20.791,246.579 20.791,195.574L20.791,194.275C34.76,202.072 51.005,206.945 68.222,207.594C39.958,188.751 21.441,156.589 21.441,120.203C21.441,100.711 26.638,82.843 35.735,67.249C87.39,130.924 165.035,172.507 252.1,177.056C250.476,169.259 249.501,161.138 249.501,153.016C249.501,95.188 296.283,48.082 354.435,48.082C384.648,48.082 411.937,60.752 431.105,81.219C454.82,76.671 477.561,67.899 497.704,55.879C489.906,80.245 473.338,100.712 451.572,113.706C472.689,111.433 493.156,105.584 511.998,97.463C497.706,118.254 479.837,136.771 459.37,151.716Z" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image2" width="55px" height="55px" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA3ADcDAREAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABAYBAgMF/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAEDAiEx/8QAGgEBAAMBAQEAAAAAAAAAAAAAAwIFBgEHCP/EABYRAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEQMRAD8A9Y9lfL7G3w7HYNRiQ2YLViQ+YNViw+RaMSGzBaMSHzFiVLOtKMlE8i1YkNmDVYsPmC1YmT5gtWJDZgtGLD5i0Kdm3GrJwuYNViw2YLViQ+RasSHzBasWGzBqPokPla68KaM1B6MSGzBasWHzBqsSGyLRiw+YLViQ+YPr0SFi2o+FNGayNViw+YLRiQ+YLViQ2YLRiw+YLRiQ+Y4iEWlWU8ZvMGqxIfMFqxIfMFqxYbMFqxIfMGoxYfMcySSxoyojO5GqxIfMFqxYfMFoxIbItWLD5g230SGjB11//9k="/>
+    </defs>
+</svg>

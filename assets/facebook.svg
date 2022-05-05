@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-548.037,-935.403)">
+        <g>
+            <g transform="matrix(1,0,0,1,0,2.86374)">
+                <circle cx="575.53" cy="960.032" r="27.493" style="fill:url(#_Linear1);"/>
+            </g>
+            <g id="facebook-f-brands.svg" transform="matrix(0.0729052,0,0,0.0729052,575.53,962.896)">
+                <g transform="matrix(1,0,0,1,-160,-256)">
+                    <clipPath id="_clip2">
+                        <rect x="0" y="0" width="320" height="512"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <path d="M279.14,288L293.36,195.34L204.45,195.34L204.45,135.21C204.45,109.86 216.87,85.15 256.69,85.15L297.11,85.15L297.11,6.26C297.11,6.26 260.43,0 225.36,0C152.14,0 104.28,44.38 104.28,124.72L104.28,195.34L22.89,195.34L22.89,288L104.28,288L104.28,512L204.45,512L204.45,288L279.14,288Z" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:1px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(30.0313,35.318,-20.4343,17.3755,557.436,948.488)"><stop offset="0" style="stop-color:rgb(30,114,234);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,66,160);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
